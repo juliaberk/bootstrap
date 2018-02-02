@@ -1,0 +1,20 @@
+/*nav color = #b2c44e */
+
+/*text color = #ffffff */
+
+.navbar {
+    background-color: #b2c44e;
+}
+
+.nav-item .nav-link {
+    color: #ffffff;
+}
+
+a {
+    color: #000000;
+}
+
+.sassy-picture {
+
+    padding-top: 45px;
+}
